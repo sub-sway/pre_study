@@ -14,5 +14,5 @@ ROS(로봇 운영 시스템) & 컴퓨터 비전 기초
 (7) YOLO, SSD     
 (8) 실시간 객체 탐지와 FPS 최적화   
 
-# [Notion- 발표 자료](https://persistent-syringa-e6c.notion.site/01-1c1385122d54801d89daffc41eacb810?pvs=4)
-# [Notion-기록](https://www.notion.so/01-1cd385122d5480f38540dd70a6d4d58a?pvs=4)
+# [1차시 Notion- 발표 자료](https://persistent-syringa-e6c.notion.site/01-1c1385122d54801d89daffc41eacb810?pvs=4)
+# [1차시 Notion-기록](https://persistent-syringa-e6c.notion.site/01-1cd385122d5480f38540dd70a6d4d58a?pvs=4)
