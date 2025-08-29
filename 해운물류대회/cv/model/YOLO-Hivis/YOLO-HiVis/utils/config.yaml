@@ -1,0 +1,7 @@
+path: path/to/YOLO-HiVis-Data
+train: images
+val: images
+
+names:
+  0: person
+  1: hi-vis
